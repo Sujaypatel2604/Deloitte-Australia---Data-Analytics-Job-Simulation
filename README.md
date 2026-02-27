@@ -3,6 +3,7 @@ This project was completed as part of the Deloitte Australia Data Analytics Virt
 The simulation focused on analyzing structured business data, identifying data quality issues, and delivering actionable insights through visualization and business reporting.
 
 The objective was to simulate real-world data analytics tasks performed in a consulting environment.
+
 🎯 Key Objectives
 - Perform data analysis using Excel
 - Identify data inconsistencies and business insights
@@ -15,6 +16,7 @@ Tableau - (Data Visualization & Dashboard Development)
 Business Reporting
 
 📊 Project Tasks & Work Completed
+
  1️⃣ Data Analysis & Cleaning
 - Reviewed structured business datasets
 - Identified data quality issues and inconsistencies
