@@ -11,8 +11,11 @@ The objective was to simulate real-world data analytics tasks performed in a con
 - Present findings in a structured, stakeholder-friendly format
 
 🛠 Tools & Technologies
+
 Microsoft Excel - (Pivot Tables, Formulas, Data Cleaning)
+
 Tableau - (Data Visualization & Dashboard Development)
+
 Business Reporting
 
 📊 Project Tasks & Work Completed
